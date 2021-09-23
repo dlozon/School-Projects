@@ -1,5 +1,5 @@
 SpellCheck was written by Dylan Lozon
-for project 5 of CS-231
+for project 5 of the C portion of CS-231
 
 ------ Compiling Info ------
 Each file can be compiled with
