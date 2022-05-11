@@ -1,4 +1,4 @@
-SpellCheck was written by Dylan Lozon
+Hangman was written by Dylan Lozon
 for project 2 of the Haskell portion of CS-231
 
 ------ Compiling Info ------
